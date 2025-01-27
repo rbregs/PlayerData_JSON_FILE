@@ -1,0 +1,15 @@
+[
+    {
+        "PlayerName": "Player123",
+        "BallCountSimulated": 200,
+        "PickedUp": [
+            { "BallNumber": 1, "Color": "Red" },
+            { "BallNumber": 2, "Color": "Blue" }
+        ],
+        "PickedUpAndShot": [
+            { "BallNumber": 3, "Color": "Green" },
+            { "BallNumber": 4, "Color": "Yellow" }
+        ]
+    }
+
+]
